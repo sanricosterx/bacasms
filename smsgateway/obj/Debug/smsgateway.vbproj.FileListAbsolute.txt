@@ -1,0 +1,10 @@
+E:\ProjectNET\KirimSMS\smsgateway\smsgateway\bin\Debug\smsgateway.exe.config
+E:\ProjectNET\KirimSMS\smsgateway\smsgateway\bin\Debug\smsgateway.exe
+E:\ProjectNET\KirimSMS\smsgateway\smsgateway\bin\Debug\smsgateway.pdb
+E:\ProjectNET\KirimSMS\smsgateway\smsgateway\bin\Debug\smsgateway.xml
+E:\ProjectNET\KirimSMS\smsgateway\smsgateway\obj\Debug\smsgateway.Form1.resources
+E:\ProjectNET\KirimSMS\smsgateway\smsgateway\obj\Debug\smsgateway.Resources.resources
+E:\ProjectNET\KirimSMS\smsgateway\smsgateway\obj\Debug\smsgateway.vbproj.GenerateResource.Cache
+E:\ProjectNET\KirimSMS\smsgateway\smsgateway\obj\Debug\smsgateway.exe
+E:\ProjectNET\KirimSMS\smsgateway\smsgateway\obj\Debug\smsgateway.xml
+E:\ProjectNET\KirimSMS\smsgateway\smsgateway\obj\Debug\smsgateway.pdb
